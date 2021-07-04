@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Xinyu's Blog
 
 You can use the [editor on GitHub](https://github.com/fxylovesmath/fxy.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
